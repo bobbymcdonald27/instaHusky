@@ -6,6 +6,7 @@ body {
     background-size: cover;*/
     color: black;
     text-align: center;
+    font-family: 'Lobster Two', cursive;
 
 
 }
@@ -14,7 +15,5 @@ body {
 
     height: 284px;
     width: 160px;
-
-
 
 }
